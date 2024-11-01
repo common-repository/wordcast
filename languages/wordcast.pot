@@ -1,0 +1,596 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordCast\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-28 19:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: wordcast-custom-taxonomies.php:6 wordcast-custom-taxonomies.php:17
+msgid "Categories"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:7
+msgid "Category"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:8
+msgid "Search Categories"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:9
+msgid "All Categories"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:10
+msgid "Edit Category"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:11
+msgid "Update Category"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:12
+msgid "Add New Category"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:13
+msgid "New Category Name"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:14
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:15
+msgid "Add or remove Categories"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:16
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:30 wordcast-custom-taxonomies.php:41
+msgid "Keywords"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:31
+msgid "Keyword"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:32
+msgid "Search Keywords"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:33
+msgid "All Keywords"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:34
+msgid "Edit Keyword"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:35
+msgid "Update Keyword"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:36
+msgid "Add New Keyword"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:37
+msgid "New Keyword Name"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:38
+msgid "Separate Keywords with commas"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:39
+msgid "Add or remove Keywords"
+msgstr ""
+
+#: wordcast-custom-taxonomies.php:40
+msgid "Choose from the most used Keywords"
+msgstr ""
+
+#: wordcast-custom-post-types.php:7
+msgid "WordCast Episodes"
+msgstr ""
+
+#: wordcast-custom-post-types.php:8 wordcast-add-acf-fields.php:325
+msgid "WordCast Episode"
+msgstr ""
+
+#: wordcast-custom-post-types.php:9 wordcast-custom-post-types.php:32
+msgid "Add New"
+msgstr ""
+
+#: wordcast-custom-post-types.php:10
+msgid "Add New Episode"
+msgstr ""
+
+#: wordcast-custom-post-types.php:11 wordcast-custom-post-types.php:34
+msgid "Edit"
+msgstr ""
+
+#: wordcast-custom-post-types.php:12
+msgid "Edit Episode"
+msgstr ""
+
+#: wordcast-custom-post-types.php:13
+msgid "New Episode"
+msgstr ""
+
+#: wordcast-custom-post-types.php:14 wordcast-custom-post-types.php:15
+msgid "View Episode"
+msgstr ""
+
+#: wordcast-custom-post-types.php:16
+msgid "Search Episodes"
+msgstr ""
+
+#: wordcast-custom-post-types.php:17
+msgid "No Episodes found"
+msgstr ""
+
+#: wordcast-custom-post-types.php:18
+msgid "No Episodes found in Trash"
+msgstr ""
+
+#: wordcast-custom-post-types.php:19
+msgid "Parent Episode"
+msgstr ""
+
+#: wordcast-custom-post-types.php:30
+msgid "WordCast Channels"
+msgstr ""
+
+#: wordcast-custom-post-types.php:31 wordcast-custom-post-types.php:57
+#: wordcast-add-acf-fields.php:7
+msgid "WordCast Channel"
+msgstr ""
+
+#: wordcast-custom-post-types.php:33
+msgid "Add New Channel"
+msgstr ""
+
+#: wordcast-custom-post-types.php:35
+msgid "Edit Channel"
+msgstr ""
+
+#: wordcast-custom-post-types.php:36
+msgid "New Channel"
+msgstr ""
+
+#: wordcast-custom-post-types.php:37 wordcast-custom-post-types.php:38
+msgid "View Channel"
+msgstr ""
+
+#: wordcast-custom-post-types.php:39
+msgid "Search Channels"
+msgstr ""
+
+#: wordcast-custom-post-types.php:40
+msgid "No Channels found"
+msgstr ""
+
+#: wordcast-custom-post-types.php:41
+msgid "No Channels found in Trash"
+msgstr ""
+
+#: wordcast-custom-post-types.php:42
+msgid "Parent Channel"
+msgstr ""
+
+#: wordcast-custom-post-types.php:73
+msgid "Podcast Feed URL"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:11
+msgid "Heads Up!"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:22
+msgid ""
+"It is recommended that all of the following fields have content for the best "
+"results"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:28
+msgid "Website"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:31
+msgid ""
+"URL to the website where this channel is presented. So make a page for this "
+"channel!"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:44
+msgid "Channel Description"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:63
+msgid "Language"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:75
+msgid "Afrikaans"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:76
+msgid "Albanian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:77
+msgid "Basque"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:78
+msgid "Belarusian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:79
+msgid "Bulgarian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:80
+msgid "Catalan"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:81
+msgid "Chinese"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:82
+msgid "Croatian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:83
+msgid "Czech"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:84
+msgid "Danish"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:85
+msgid "Dutch"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:86
+msgid "English"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:87
+msgid "English (United States)"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:88
+msgid "Estonian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:89
+msgid "Faeroese"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:90
+msgid "Finnish"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:91
+msgid "French"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:92
+msgid "French (Canada)"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:93
+msgid "Galician"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:94
+msgid "Gaelic"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:95
+msgid "German"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:96
+msgid "Greek"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:97
+msgid "Hawaiian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:98
+msgid "Hungarian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:99
+msgid "Icelandic"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:100
+msgid "Indonesian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:101
+msgid "Irish"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:102
+msgid "Italian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:103
+msgid "Japanese"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:104
+msgid "Korean"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:105
+msgid "Macedonian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:106
+msgid "Norwegian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:107
+msgid "Polish"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:108
+msgid "Portuguese"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:109
+msgid "Romanian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:110
+msgid "Russian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:111
+msgid "Serbian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:112
+msgid "Slovak"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:113
+msgid "Slovenian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:114
+msgid "Spanish"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:115
+msgid "Swedish"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:116
+msgid "Turkish"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:117
+msgid "Ukranian"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:131
+msgid "Channel Subtitle"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:134 wordcast-add-acf-fields.php:370
+msgid "A single, descriptive sentence for your podcast or episode"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:150
+msgid "Channel Author"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:169
+msgid "Channel Copyright"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:188
+msgid "Channel Owner Mail"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:206
+msgid "Channel Owner"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:225 wordcast-add-acf-fields.php:386
+msgid "Explicit"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:228
+msgid "Does this channel feature explicit content"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:249
+msgid "Channel Type"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:252
+msgid ""
+"Episodic is the default type of podcasts\n"
+"Use serial if your podcast is seasonal\n"
+"\n"
+"Seasons might not show in Google Podcasts or Itunes until 2 or more seasons "
+"have been added"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:264
+msgid "Episodic"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:265
+msgid "Serial"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:278 wordcast-add-acf-fields.php:290
+#: wordcast-add-acf-fields.php:482 wordcast-add-acf-fields.php:494
+msgid "Block"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:281
+msgid ""
+"If checked this channel will not be shown in the Google Podcast or Itunes "
+"library"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:329
+msgid "File"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:332
+msgid "Supported file types are mp3, m4a, mp4"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:348
+msgid "Description"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:367
+msgid "Episode Subtitle"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:389
+msgid "Does this episode feature explicit content"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:398
+msgid "Yes"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:399
+msgid "No"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:410
+msgid "Episode Type"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:422
+msgid "Full"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:423
+msgid "Trailer"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:424
+msgid "Bonus"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:438
+msgid "Episode Season"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:441
+msgid ""
+"If your episodes are seasonal and NOT stand-alone episodes\n"
+"For this to work your channel type must be set to serial"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:460
+msgid "Episode Number"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:463
+msgid ""
+"If your episodes are seasonal and NOT stand-alone episodes\n"
+"For this to work you your channel type must be set to serial"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:485
+msgid ""
+"If checked this episode will not be shown in the Google Podcast or Itunes "
+"library"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:529
+msgid "WordCast Meta"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:533
+msgid "Channel"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:536
+msgid "Select the channel this episode belongs to"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:555 wordcast-add-acf-fields.php:599
+msgid "Featured Image"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:603
+msgid "Image"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:647
+msgid "WordCast Channel Side"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:651
+msgid "Add to..."
+msgstr ""
+
+#: wordcast-add-acf-fields.php:662
+msgid "Add to Google Play Podcasts"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:663
+msgid "Add to Itunes Connect"
+msgstr ""
+
+#: wordcast-add-acf-fields.php:664
+msgid "Add to Spotify"
+msgstr ""
+
+#: wordcast-add-acf.php:16
+msgid ""
+"For WordCast to work AT ALL You need to install this plugin, okay?<br>(ACF "
+"PRO WILL ALSO WORK 🤘)"
+msgstr ""
+
+#. Name of the plugin
+msgid "WordCast"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WordCast makes WordPress the perfect system to serve podcast feeds. Make all "
+"the podcasts and podcast channels you need"
+msgstr ""
+
+#. Author of the plugin
+msgid "Emil Wibe"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://ew.dk/"
+msgstr ""
